@@ -1,0 +1,44 @@
+{
+  "list":[{
+  "id": 0,
+  "fullName": "dr hab. inż. Stanisław Deniziak",
+  "email": " deniziak@eden.tu.kielce.pl ",
+  "classroom": " Sala 1.05, budynek D ",
+  "avatarUrl":
+  "https://achilles.tu.kielce.pl/portal/pliki/avatars/sdeniziak.jpg/@@images/9796bac7-4f23-4747-9af8-931b543ca14f.jpeg"
+},
+
+{
+  "id": 1,
+"fullName": " dr inż. Barbara Łukawska",
+"email": "b.lukawska@tu.kielce.pl ",
+"classroom": " Sala 2.05, budynek D ",
+"avatarUrl":
+"https://achilles.tu.kielce.pl/portal/pliki/avatars/blukawska.jpg/@@images/d383fb8c-7da6-4767-b2da-cd25dcc0eb7f.jpeg"
+},
+
+{
+  "id": 2,
+"fullName": "dr inż. Grzegorz Łukawski",
+"email": "g.lukawski@tu.kielce.pl ",
+"classroom": " Sala 4.05, budynek D ",
+"avatarUrl": "https://achilles.tu.kielce.pl/portal/pliki/avatars/glukawski.jpg/@@images/84e9b5c1-4366-49cf-b4c1-6dc66c2504cc.jpeg"
+},
+
+{
+  "id": 3,
+"fullName": "dr inż. Adam Krechowicz",
+"email": "a.krechowicz@tu.kielce.pl ",
+"classroom": " Sala .05, budynek D ",
+"avatarUrl":
+"https://achilles.tu.kielce.pl/portal/pliki/avatars/akrechowicz.jpg/@@images/c879a3d2-f56f-4470-a5ab-03ed661cd014.jpeg"
+},
+{
+  "id": 4,
+"fullName": "mgr inż. Mateusz Pawełkiewicz",
+"email": "m.pawelkiewicz@tu.kielce.pl",
+"classroom": " Sala 3.05, budynek D ",
+"avatarUrl":
+"https://achilles.tu.kielce.pl/portal/pliki/avatars/mpawelkiewicz.png/@@images/00601b0a-7807-4313-a811-01843ecadb32.png"
+  }]
+}
