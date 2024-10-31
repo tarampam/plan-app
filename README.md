@@ -33,9 +33,6 @@ Search for other plans
 ToDo list
 ![image](https://github.com/user-attachments/assets/bb50d884-a5d9-41d8-ad5e-d62cdbd7a9d3)
 
-Ustawienia
-Settings
-![image](https://github.com/user-attachments/assets/a7260d79-b886-4de3-bc0b-19c68e78da9b)
 
 
 
